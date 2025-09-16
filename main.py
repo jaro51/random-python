@@ -1,3 +1,3 @@
 if (True):{
-    exec('addi.py')
+    exec(open("addi.py"))
 }
