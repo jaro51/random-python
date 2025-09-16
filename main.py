@@ -1,3 +1,3 @@
 if (True):{
-    print("hello there")
+    exec('addi.py')
 }
