@@ -2,3 +2,13 @@ git commit -m "zpráva"
 git add --all
 git add <soubor>
 git push
+
+
+
+
+
+
+
+
+motiks
+

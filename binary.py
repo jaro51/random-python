@@ -1,4 +1,4 @@
-num = 45198465
+num = 29370065
 r = 16
 def prevod(num):
     while num != 0:
